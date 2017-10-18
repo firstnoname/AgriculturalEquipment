@@ -1,0 +1,86 @@
+<resources>
+    <!-- เครื่องยนต์ -->
+    <string name="engine">เครื่องยนต์</string>
+        <string name="engine_start">สตาร์ทติด</string>
+        <string name="engine_cant_start">สตาร์ทไม่ติด</string>
+    
+    <!-- จานกระตุก -->
+    <string name="starter">จานกระตุก</string>
+        <string name="change_onlyRope">เปลี่ยนเฉพาะเชือกกระตุก</string>
+        <string name="change_onlyDrive">เปลี่ยนเฉพาะเขี้ยวสตาร์ท</string>
+        <string name="not_changeStarter">ไม่เปลี่ยนจานกระตุก</string>
+    
+    <!-- เขี้ยวสตาร์ท -->
+    <string name="starterClaw">เขี้ยวสตาร์ท</string>
+        
+    <!-- เชือกดึง -->
+    <string name="starterRope">เชือกดึง</string>
+    
+    <!-- ถังน้ำมัน -->
+    <string name="fuelTank">ถังน้ำมัน</string>
+        <string name="change_fuelTank">เปลี่ยนถังน้ำมัน</string>
+        <string name="not_changeFuelTank">ไม่เปลี่ยนถังน้ำมัน</string>
+    
+    <!-- หม้อกรองอากาศ -->
+    <string name="airFilter">หม้อกรองอากาศ</string>
+        <string name="change_onlyAirFilter">เปลี่ยนเฉพาะไส้กรองอากาศ</string>
+        <string name="change_airFilter">เปลี่ยนกรองอากาศทั้งลูก</string>
+        <string name="not_changeAirFilter">ไม่เปลี่ยนกรองอากาศ</string>
+    
+    <!-- ลูกสูบ -->
+    <string name="pistonSet">ลูกสูบ</string>
+        <string name="change_pistonSet">เปลี่ยนลูกสูบ</string>
+        <string name="not_changePistonSet">ไม่เปลี่ยนลูกสูบ</string>
+    
+    <!-- คาร์บูเรเตอร์ -->
+    <string name="carburetor">คาร์บูเรเตอร์</string>
+        <string name="change_carburetor">เปลี่ยนคาร์บูเรเตอร์</string>
+        <string name="not_changeCarburetor">ไม่เปลี่ยนคาร์บูเรเตอร์</string>
+    
+    <!-- เสื้อสูบ -->
+    <string name="cylinderSet">เสื้อสูบ</string>
+        <string name="change_cylinderSet">เปลี่ยนเสื้อสูบ</string>
+        <string name="change_only_piston">เปลี่ยนเฉพาะลูกสูบ</string>
+        <string name="not_change_cylinderSet">ไม่เปลี่ยนเสื้อสูบ</string>
+    
+    <!-- ก๊อกน้ำมัน -->
+    <string name="ballValveSwitchOil">ก๊อกน้ำมัน</string>
+        <string name="change_ballValveSwitchOil">เปลี่ยนก๊อกน้ำมัน</string>
+        <string name="not_change_ballValveSwitchOil">ไม่เปลี่ยนก๊อกน้ำมัน</string>
+    
+    <!-- ท่อไอเสีย -->
+    <string name="muffler">ท่อไอเสีย</string>
+        <string name="change_muffler">เปลี่ยนท่อไอเสีย</string>
+        <string name="not_changeMuffler">ไม่เปลี่ยนท่อไอเสีย</string>
+
+    <!-- สวิตช์ปิดเปิด -->
+    <string name="switchOnOff">สวิตช์ปิดเปิด</string>
+        <string name="change_switchOnOff">เปลี่ยนสวิตช์</string>
+        <string name="not_changeSwitchOnOff">ไม่เปลี่ยนสวิตช์</string>
+
+    <!-- คอยล์ -->
+    <string name="coil">คอยล์</string>
+        <string name="change_coil">เปลี่ยนคอยล์</string>
+        <string name="not_changeCoil">ไม่เปลี่ยนคอยล์</string>
+
+    <!-- ฝาถังน้ำมัน -->
+    <string name="fuelTankCap">ฝาถังน้ำมัน</string>
+        <string name="change_fuelTankCap">เปลี่ยนฝาถังน้ำมัน</string>
+        <string name="not_changeFuelTankCap">ไม่เปลี่ยนฝาถังน้ำมัน</string>
+    
+    <!-- ทำสี -->
+    <string name="newPaint">ทำสี</string>
+        <string name="change_newPaint">ทำสีใหม่</string>
+        <string name="not_newPaint">ไม่ทำสีใหม่</string>
+    
+    <!-- ฝาถังน้ำมันเครื่อง -->
+    <string name="oilTankCap">ฝาถังน้ำมันเครื่อง</string>
+        <string name="change_oilTankCap">เปลี่ยนฝาถังน้ำมันเครื่อง</string>
+        <string name="not_changeOilTankCap">ไม่เปลี่ยนฝาถังน้ำมันเครื่อง</string>
+    
+    <!-- ปลั๊กหัวเทียน -->
+    <string name="sparkPlug">ปลั๊กหัวเทียน</string>
+        <string name="change_sparkPlug">เปลี่ยนปลั๊กหัวเทียน</string>
+        <string name="not_changeSparkPlug">ไม่เปลี่ยนปลั๊กหัวเทียน</string>
+
+</resources>

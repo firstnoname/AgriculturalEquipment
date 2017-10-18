@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AgriculturalEquipment</string>
+    <string name="main_g200">Honda G200</string>
+    <string name="btn_estimate">ประเมิณ</string>
+    <string name="btn_resetEstimate">ทำใหม่</string>
+</resources>
